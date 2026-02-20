@@ -1,0 +1,4 @@
+--- Banka Müşteri Özet Listesi ---
+ID: 1 | Tip: Bireysel | Ad: Ömer Faruk Aydın | Bakiye 10000.0
+ID: 2 | Tip: Tuzel | Ad: IEEE | Bakiye 150000.0
+ID: 3 | Tip: Tuzel | Ad: YTÜ | Bakiye 50000.0
